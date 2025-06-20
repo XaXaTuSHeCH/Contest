@@ -45,7 +45,7 @@ python Train.py
 python Valid.py
 ```
 ## Тестирование (на изображениях без разметки):
-### перейдите в файл Train.py в source='./path/to/images' (14 строка) вставьте путь до data.yaml вашего датасета, вместо ./path/to/images
+### перейдите в файл Train.py в source='./path/to/images' (14 строка) вставьте путь до папки с изображениями, вместо ./path/to/images
 ### Запустите скрипт:
 ```
 python Test.py

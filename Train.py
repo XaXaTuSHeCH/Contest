@@ -1,4 +1,5 @@
 from ultralytics import YOLO
+
 import torch
 
 if torch.cuda.is_available():
