@@ -1,0 +1,6 @@
+.idea
+.venv
+/Combined
+/runs
+.DS_Store
+yolov5nu.pt
