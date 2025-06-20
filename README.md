@@ -12,8 +12,8 @@ pip --version
 
 # Склонируйте этот репозиторий и перейдите в папку с ним:
 ```
-git clone <URL_ВАШЕГО_РЕПОЗИТОРИЯ>
-cd <ИМЯ_ПАПКИ_РЕПОЗИТОРИЯ>
+git clone https://github.com/XaXaTuSHeCH/Contest
+cd Contest
 ```
 # Создайте и активируйте виртуальное окружение:
 ## Windows:
